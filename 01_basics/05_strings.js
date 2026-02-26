@@ -1,11 +1,11 @@
-const name = "hitesh"
+const name = "suyasha"
 const repoCount = 50
 
 // console.log(name + repoCount + " Value");
 
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
-const gameName = new String('hitesh-hc-com')
+const gameName = new String('suyasha-sj-com')
 
 // console.log(gameName[0]);
 // console.log(gameName.__proto__);
@@ -22,11 +22,11 @@ console.log(newString);
 const anotherString = gameName.slice(-8, 4)
 console.log(anotherString);
 
-const newStringOne = "   hitesh    "
+const newStringOne = "   suyasha    "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
-const url = "https://hitesh.com/hitesh%20choudhary"
+const url = "https://suyasha.com/suyasha%20jha"
 
 console.log(url.replace('%20', '-'))
 
